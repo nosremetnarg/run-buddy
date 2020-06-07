@@ -111,14 +111,20 @@ footer {
     font-size: 16px;
 
 }
+/* footer styles */
+footer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+} 
 footer h2 {
-    display: inline;
+   
     color: #024e76;
     font-size: 30px;
     margin: 0;
 }
 footer div {
-    float: right;
+    
     line-height: 1.5;
     text-align: right;
 }
@@ -132,15 +138,13 @@ section {
 /* Hero Style Start */
 .hero {
     background-image: url("../images/hero-bg.jpg");
-    height: 600px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     background-size: cover;
     background-position: center;
-    position: relative;
-    /*
-    margin: 20px;
-    background-color: white;
-    font-size: 20px;
-    color: blue; */
+    
+    
 }
 /* secondary page hero */
 .hero-secondary {
@@ -170,11 +174,23 @@ section {
     color: #024e76;
     background-color: #fce138;
     padding: 20px;
-    width: 500px;
+    width: 40%;
+    margin: 3.5%;
     border: solid 3px #024e76;
-    position: absolute;
-    bottom: 120px;
-    right: 140px;
+}
+/* hero-cta styles */
+.hero-cta {
+    width: 35%;
+    text-align: right;
+    margin: 3.5%;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.3;
+}
+.hero-cta h2 {
+    font-style: italic;
+    font-size: 55px;
+    color: #fce138;
 }
 /* trainer style section */
 
