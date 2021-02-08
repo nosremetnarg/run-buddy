@@ -9,7 +9,7 @@
   - [Live Site](#website)
   - [Contribution](#contribution)
 
-![coffee](https://img.shields.io/badge/-brown-red) ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue)
+![coffee](https://img.shields.io/badge/-Coffee-brown) ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue)
 
 ## Purpose
 A website that offers fitness training services. User can read descriptions of what several trainers offer, then sign up for services. User can see location of gym at the bottom of the page.
